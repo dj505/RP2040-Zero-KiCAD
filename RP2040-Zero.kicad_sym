@@ -3,7 +3,7 @@
     (property "Reference" "U" (at 0 0 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Value" "" (at -5.08 0 0)
+    (property "Value" "RP2040-Zero" (at 0 8.89 0)
       (effects (font (size 1.27 1.27)))
     )
     (property "Footprint" "" (at -5.08 0 0)
@@ -16,9 +16,6 @@
       (rectangle (start -12.7 7.62) (end 12.7 -21.59)
         (stroke (width 0) (type default))
         (fill (type background))
-      )
-      (text "RP2040-Zero" (at 0 8.89 0)
-        (effects (font (size 1.27 1.27)))
       )
     )
     (symbol "RP2040-Zero_1_1"
